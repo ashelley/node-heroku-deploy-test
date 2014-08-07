@@ -1,0 +1,4 @@
+references.ts
+UI.ts
+
+--out ../build/canvas-test.js --declaration
