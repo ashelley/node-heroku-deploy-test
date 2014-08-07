@@ -1,6 +1,7 @@
 {
-  "name": "Node.js Sample",
-  "description": "A barebones Node.js app using Express 4",
+  "name": "Heroku Test Deployment",
+  "description": "Heroku Test Deployment",
+  "addons": ["mongolab"],
   "repository": "https://github.com/heroku/node-js-sample",
   "logo": "https://node-js-sample.herokuapp.com/node.svg",
   "keywords": ["node", "express", "static"]
