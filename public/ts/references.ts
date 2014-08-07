@@ -1,1 +1,0 @@
-/// <reference path="../../includes/types/jquery.d.ts" />
